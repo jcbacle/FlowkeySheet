@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Flowkey": {
+      "commandName": "Project",
+      "commandLineArgs": "--title \"Shallow\" --author \"Lady Gaga, Bradley Cooper\" --level \"Intermediate\" --bpm 85 --url https://flowkeycdn.com/sheets/q79jB8ZEYjdSfWMDw/300/0.png"
+    },
+    "Flowkey help": {
+      "commandName": "Project"
+    }
+  }
+}
